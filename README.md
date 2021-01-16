@@ -1,1 +1,1 @@
-# NeuroWorld://Computaional & Cognitive Neuroscience//Machine Learning
+# NeuroWorld://Computational & Cognitive Neuroscience//Machine Learning
